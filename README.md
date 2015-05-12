@@ -3,9 +3,7 @@
 An ultrasound cane top can be mounted on a normal cane for visually impaired people to warn them about obstacles located 
 on a higher level then is accessible for the cane, e.g. tall cars, fences, gates, or barriers.
 
-See more [forblind.org/en](http://forblind.org/en/)
-See more [forblind.org/ru](http://forblind.org/ru/)
-
+See more [forblind.org](http://forblind.org/en/?cat=15)
 
 ## Project folders
 
@@ -18,9 +16,9 @@ See more [forblind.org/ru](http://forblind.org/ru/)
 ## History
 
 ### 0.1.0 2015/05/12
-    * create this file
-    * add arduino source code
-    * add 3D models
+ * create this file
+ * add arduino source code
+ * add 3D models
 
 ## Credits
 
@@ -32,7 +30,7 @@ who develop new technologies to the issues and challenges of visually impaired p
 Because of that we use croudsourcing platforms to fund and promote our designs. Anybody can join our community and to help
 us reach the set goals in making the world a better place for visually impaired people.
 
-Contributors:
+### Contributors:
  * Vitaly Munirov
  * Timur Gazizov
 
